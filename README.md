@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mprivate&label=Profile%20views&color=0e75b6&style=flat" alt="mprivate" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mprivate" alt="mprivate" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter, Dart.**
 
 - ⚡ Fun fact **Eu me acho engraçado e descabido.**
