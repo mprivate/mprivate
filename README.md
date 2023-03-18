@@ -7,7 +7,7 @@
 
 - ⚡ Fato engraçado: **Eu me acho engraçado e descabido.**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Conecte-se comigo: **mprivate_contato@proton.me** </h3>
 <p align="left">
 </p>
 
